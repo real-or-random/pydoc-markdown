@@ -12,7 +12,7 @@ code like so many other documentation tools, it parses it using [docspec][] inst
 [→ Go to the Documentation 📘][Documentation]
 
   [contrib]: https://github.com/NiklasRosenstein/pydoc-markdown/blob/develop/.github/CONTRIBUTING.md
-  [docspec]: https://niklasrosenstein.github.io/docspec/
+  [docspec]: https://niklasrosenstein.github.io/python-docspec/
   [Documentation]: https://niklasrosenstein.github.io/pydoc-markdown/
   [MkDocs]: https://www.mkdocs.org/
   [Novella]: https://niklasrosenstein.github.io/novella/
